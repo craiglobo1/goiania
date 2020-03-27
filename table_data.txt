@@ -1,0 +1,252 @@
+<table class="wikitable sortable jquery-tablesorter">
+<thead><tr>
+<th data-sort-type="number" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending" style="position: relative;" data-metatip="true">Fatalities
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending" data-metatip="true">Incident
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Date
+</th>
+<th class="headerSort headerSortDown" tabindex="0" role="columnheader button" title="Sort ascending">Details
+</th></tr></thead>
+<tbody>
+<tr>
+<td><span data-sort-value="100&nbsp;!" style="" data-metatip="true">0</span>
+</td>
+<td><a href="/wiki/Fukushima_Daiichi_nuclear_disaster" title="Fukushima Daiichi nuclear disaster">Fukushima Daiichi nuclear disaster</a>
+</td>
+<td>2011 March
+</td>
+<td>WHO death count is zero.  Death count 100<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (March 2020)">by whom?</span></a></i>]</sup>
+</td></tr><tr>
+<td>2
+</td>
+<td style="">Meet Halfa, Egypt
+</td>
+<td>2000 May
+</td>
+<td>two fatalities due to radiography accident.<sup id="cite_ref-istvan_14-0" class="reference"><a href="#cite_note-istvan-14">[14]</a></sup>
+</td></tr><tr>
+<td>3
+</td>
+<td><a href="/wiki/Samut_Prakan_radiation_accident" title="Samut Prakan radiation accident">Samut Prakan radiation accident</a>
+</td>
+<td>2000 February
+</td>
+<td>Three deaths and ten injuries resulted when a radiation-therapy unit was dismantled.<sup id="cite_ref-pall_12-0" class="reference"><a href="#cite_note-pall-12">[12]</a></sup>
+</td></tr><tr>
+<td>17
+</td>
+<td><a href="/wiki/Instituto_Oncologico_Nacional" class="mw-redirect" title="Instituto Oncologico Nacional">Instituto Oncologico Nacional</a> of <a href="/wiki/Panama" title="Panama">Panama</a>
+</td>
+<td>2000 August – 2001 March
+</td>
+<td>Patients receiving treatment for prostate cancer and cancer of the cervix receive lethal doses of radiation.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-johnston2007_4-0" class="reference"><a href="#cite_note-johnston2007-4">[4]</a></sup>
+</td></tr><tr>
+<td>1
+</td>
+<td><a href="/wiki/Wood_River_Junction" class="mw-redirect" title="Wood River Junction">Wood River Junction, Rhode Island</a>
+</td>
+<td>1964
+</td>
+<td>Operator error at nuclear facility, Robert Peabody died 49 hours later
+</td></tr><tr>
+<td>1
+</td>
+<td>Tammiku, Estonia
+</td>
+<td>1994
+</td>
+<td>one fatality from disposed 137Cs source.<sup id="cite_ref-istvan_14-2" class="reference"><a href="#cite_note-istvan-14">[14]</a></sup>
+</td></tr><tr>
+<td>1
+</td>
+<td>Sarov, Russia
+</td>
+<td>1997 June
+</td>
+<td>one fatality due to violation of safety rules.<sup id="cite_ref-istvan_14-3" class="reference"><a href="#cite_note-istvan-14">[14]</a></sup>
+</td></tr><tr>
+<td>1
+</td>
+<td>San Salvador, El Salvador
+</td>
+<td>1989
+</td>
+<td>one fatality due to violation of safety rules at 60Co irradiation facility.<sup id="cite_ref-istvan_14-1" class="reference"><a href="#cite_note-istvan-14">[14]</a></sup>
+</td></tr><tr>
+<td>8
+</td>
+<td><a href="/wiki/Soviet_submarine_K-19" title="Soviet submarine K-19">Soviet submarine K-19</a> reactor accident
+</td>
+<td>1961, July 4
+</td>
+<td>More than 30 people were over-exposed to radiation.<sup id="cite_ref-rad_9-0" class="reference"><a href="#cite_note-rad-9">[9]</a></sup>
+</td></tr><tr>
+<td>1
+</td>
+<td>Constituyentes Atomic Center
+</td>
+<td>1983, September 23
+</td>
+<td>Malfunction INES level 4 at RA2 reactor in <a href="/wiki/Argentina" title="Argentina">Argentina</a>, operator Osvaldo Rogulich died days later.
+</td></tr><tr>
+<td><span data-sort-value="100&nbsp;!">100</span>
+</td>
+<td><a href="/wiki/Kyshtym_disaster" title="Kyshtym disaster">Kyshtym disaster</a>
+</td>
+<td>1957, September 29
+</td>
+<td>Death count unknown, estimates range from 50 to more than 8,000
+</td></tr><tr>
+<td>11
+</td>
+<td><a href="/wiki/Radiotherapy_accident_in_Zaragoza" class="mw-redirect" title="Radiotherapy accident in Zaragoza">Radiotherapy accident in Zaragoza</a>, Spain
+</td>
+<td>1990 December
+</td>
+<td>Cancer patients receiving radiotherapy; 27 patients were injured.<sup id="cite_ref-rad1_6-0" class="reference"><a href="#cite_note-rad1-6">[6]</a></sup>
+</td></tr><tr>
+<td>1
+</td>
+<td><a href="/wiki/Cecil_Kelley_criticality_accident" title="Cecil Kelley criticality accident">Cecil Kelley criticality accident</a>
+</td>
+<td>1958, December 30
+</td>
+<td>at <a href="/wiki/Los_Alamos_National_Laboratory" title="Los Alamos National Laboratory">Los Alamos National Laboratory</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+</td></tr><tr>
+<td>1
+</td>
+<td><a href="/wiki/Harry_Daghlian" title="Harry Daghlian">Harry Daghlian</a>
+</td>
+<td>1945, August 21
+</td>
+<td>at <a href="/wiki/Los_Alamos_National_Laboratory" title="Los Alamos National Laboratory">Los Alamos National Laboratory</a> in New Mexico.
+</td></tr><tr>
+<td>4
+</td>
+<td><a href="/wiki/Goi%C3%A2nia_accident" title="Goiânia accident">Goiânia accident</a>
+</td>
+<td>1987, September 13
+</td>
+<td>249 people received serious radiation contamination from lost radiotherapy source.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+</td></tr><tr>
+<td>13
+</td>
+<td><a href="/wiki/Radiotherapy_accident_in_Costa_Rica" class="mw-redirect" title="Radiotherapy accident in Costa Rica">Radiotherapy accident in Costa Rica</a>
+</td>
+<td>1996
+</td>
+<td>114 patients received an overdose of radiation from a <a href="/wiki/Cobalt-60" title="Cobalt-60">cobalt-60</a> source that was being used for radiotherapy.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+</td></tr><tr>
+<td>10
+</td>
+<td>Columbus radiotherapy accident
+</td>
+<td>1974–1976
+</td>
+<td>88 injuries from cobalt-60 source.<sup id="cite_ref-johnston2007_4-1" class="reference"><a href="#cite_note-johnston2007-4">[4]</a></sup><sup id="cite_ref-ricks2000_8-0" class="reference"><a href="#cite_note-ricks2000-8">[8]</a></sup>
+</td></tr><tr>
+<td>9
+</td>
+<td><a href="/wiki/Soviet_submarine_K-27" title="Soviet submarine K-27">Soviet submarine K-27</a> reactor accident
+</td>
+<td>1968, May 24
+</td>
+<td>83 people were injured.<sup id="cite_ref-johnston2007_4-2" class="reference"><a href="#cite_note-johnston2007-4">[4]</a></sup>
+</td></tr><tr>
+<td>10
+</td>
+<td><a href="/wiki/Soviet_submarine_K-431" title="Soviet submarine K-431">Soviet submarine K-431</a> reactor accident
+</td>
+<td>1985, August 10
+</td>
+<td>49 people suffered radiation injuries.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+</td></tr><tr>
+<td>5
+</td>
+<td>Lost radiation source, Baku, Azerbaijan, USSR
+</td>
+<td>1982, October 5
+</td>
+<td>13 injuries.<sup id="cite_ref-johnston2007_4-4" class="reference"><a href="#cite_note-johnston2007-4">[4]</a></sup>
+</td></tr><tr>
+<td><span data-sort-value="100&nbsp;!">100</span>
+</td>
+<td><a href="/wiki/Chernobyl_disaster" title="Chernobyl disaster">Chernobyl disaster</a>
+</td>
+<td>1986, April 26
+</td>
+<td><sup id="cite_ref-UNSCEAR_2008_Vol1_1-0" class="reference"><a href="#cite_note-UNSCEAR_2008_Vol1-1">[1]</a></sup>
+</td></tr><tr>
+<td><span data-sort-value="100&nbsp;!">100</span>
+</td>
+<td><a href="/wiki/Windscale_fire" title="Windscale fire">Windscale fire</a>
+</td>
+<td>1957, October 8
+</td>
+<td><sup id="cite_ref-windscale_2-0" class="reference"><a href="#cite_note-windscale-2">[2]</a></sup>
+</td></tr><tr>
+<td>8
+</td>
+<td><a href="/wiki/Radiation_accident_in_Morocco" class="mw-redirect" title="Radiation accident in Morocco">Radiation accident in Morocco</a>
+</td>
+<td>1984 March
+</td>
+<td><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+</td></tr><tr>
+<td>7
+</td>
+<td>Houston radiotherapy accident
+</td>
+<td>1980
+</td>
+<td><sup id="cite_ref-johnston2007_4-3" class="reference"><a href="#cite_note-johnston2007-4">[4]</a></sup><sup id="cite_ref-ricks2000_8-1" class="reference"><a href="#cite_note-ricks2000-8">[8]</a></sup>
+</td></tr><tr>
+<td>4
+</td>
+<td><a href="/wiki/Radiation_accident_in_Mexico_City" class="mw-redirect" title="Radiation accident in Mexico City">Radiation accident in Mexico City</a>
+</td>
+<td>1962
+</td>
+<td>
+</td></tr><tr>
+<td>3
+</td>
+<td><a href="/wiki/SL-1" title="SL-1">SL-1</a> accident (<a href="/wiki/United_States_Army" title="United States Army">US Army</a>)
+</td>
+<td>1961
+</td>
+<td>
+</td></tr><tr>
+<td>2
+</td>
+<td><a href="/wiki/Tokaimura_nuclear_accident" title="Tokaimura nuclear accident">Tokaimura nuclear accident</a>
+</td>
+<td>1999, September 30
+</td>
+<td><sup id="cite_ref-bs2010_13-0" class="reference"><a href="#cite_note-bs2010-13">[13]</a></sup>
+</td></tr><tr>
+<td>1
+</td>
+<td><a href="/wiki/Mayapuri#Mayapuri_radiological_accident" title="Mayapuri">Mayapuri radiological accident</a>, India
+</td>
+<td>2010 April
+</td>
+<td><sup id="cite_ref-pall_12-1" class="reference"><a href="#cite_note-pall-12">[12]</a></sup>
+</td></tr><tr>
+<td>1
+</td>
+<td><a href="/wiki/Daigo_Fukury%C5%AB_Maru" title="Daigo Fukuryū Maru">Daigo Fukuryū Maru</a>
+</td>
+<td>1954, March 1
+</td>
+<td>
+</td></tr><tr>
+<td>1
+</td>
+<td><a href="/wiki/Louis_Slotin" title="Louis Slotin">Louis Slotin</a>
+</td>
+<td>1946, May 21
+</td>
+<td>
+</td></tr></tbody><tfoot></tfoot></table>
